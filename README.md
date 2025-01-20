@@ -1,16 +1,15 @@
-## Hi there 👋
+<h1 align="center"> 📚 Cześć!👋 Jestem Mateusz </h1>
 
-<!--
-**Montaso/Montaso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Studiuję informatykę, pasjonuję się programowaniem oraz nowymi technologiami. Znajdziesz tu moje projekty, nad którymi pracowałem podczas studiów i w czasie wolnym. Skupiam się głównie na językach programowania takich jak **Java**, **C#**, oraz **Python**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h2 align="center">💻 Technologie i Narzędzia</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,maven,python,c,cs,cpp,linux,docker" />
+  </a>
+</p>
+
+---
